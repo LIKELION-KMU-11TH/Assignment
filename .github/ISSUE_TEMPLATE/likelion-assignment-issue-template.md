@@ -29,6 +29,7 @@ assignees: ''
 ## 과제 제출 형식
 1. 이름
 2. 과제 Repository 주소
+3. 실행 스크린샷
 
 <hr/>
 
