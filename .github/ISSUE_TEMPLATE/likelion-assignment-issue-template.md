@@ -1,13 +1,13 @@
 ---
-name: "[LikeLion 11th Assignment] X일차 - 세션 제목"
+name: LikeLion Assignment Issue Template
 about: 멋쟁이사자차럼 at 국민대 11기 과제
-title: Assignment Template
-labels: ''
+title: "[LikeLion 11th Assignment] X일차 - 세션 제목"
+labels: 진행중
 assignees: ''
 
 ---
 
-# 1일차 세션 과제 : 과제 제목
+# X일차 세션 과제 : 과제 제목
 <hr/>
 
 ## 필수 과제
